@@ -174,7 +174,7 @@ const Navbar = () => {
     <Nav>
         <NavbarContainer>
             <NavLogo to='/'>
-                <a href='#' style={{ display: "flex", alignItems: "center", color: "gray",  cursor: 'pointer' }}>
+                <a href='#about' style={{ display: "flex", alignItems: "center", color: "gray",  cursor: 'pointer' }}>
                     <BsCodeSlash size="2.5rem" /> <Span>Portfolio</Span>
                 </a>
             </NavLogo>
